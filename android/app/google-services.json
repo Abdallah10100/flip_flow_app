@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698324039374",
+    "project_id": "flipflow-app-ae87b",
+    "storage_bucket": "flipflow-app-ae87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698324039374:android:88b44e9980670a7f0a829f",
+        "android_client_info": {
+          "package_name": "com.example.flipflow_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizjQQIAKKahSyMxfQpgCZI9uKtw6l3t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
